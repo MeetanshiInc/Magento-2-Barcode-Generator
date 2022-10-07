@@ -1,4 +1,4 @@
-# Magento 2 UBI Payment Gateway
+# Magento 2 Barcode Generator
 
 ***[Magento 2 Barcode Generator](https://meetanshi.com/magento-2-barcode-generator.html)*** by Meetanshi is the perfect tool to generate barcode labels and print them in pdf for the store products.
 
