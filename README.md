@@ -31,7 +31,7 @@ Generate and assign the selected barcode types to the products with "Assign Barc
 
 * Streamlined checkout by displaying the prices for the customers.
 
-For more information, visit [https://meetanshi.com/magento-2-barcode-generator.html](https://meetanshi.com/magento-2-barcode-generator.html)
+For more information, visit ***[https://meetanshi.com/magento-2-barcode-generator.html](https://meetanshi.com/magento-2-barcode-generator.html)***
 
 
 
